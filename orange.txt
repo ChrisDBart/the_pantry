@@ -1,0 +1,6 @@
+Im in new_grocery_list > orange.txt
+git add orange.txt
+git commit -m Merge conflict
+git checkout master
+touch orange.txt
+echo 'I'm in master
